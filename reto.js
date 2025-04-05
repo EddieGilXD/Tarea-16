@@ -12,9 +12,7 @@ se registre en la consola.
 */
 const pokemonList = ['Pikachu', 'Charizard', 'Squirtle', 'Yoshi', 'Snorlax'];
 
-for (elemento of pokemonList) {
-
-    
+for (elemento of pokemonList) {    
     if (elemento == "Yoshi") {
         
         continue;
